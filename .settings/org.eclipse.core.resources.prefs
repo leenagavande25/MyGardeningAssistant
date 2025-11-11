@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/AdminDashboard.jsp=UTF-8
+encoding//WebContent/Tasks.jsp=UTF-8
+encoding//WebContent/User_Dashboard.jsp=UTF-8
+encoding//src/com/gardening/LoginServlet.java=UTF-8
+encoding//src/com/gardening/TaskServlet.java=UTF-8
+encoding//src/com/gardening/UpdateProfileServlet.java=UTF-8

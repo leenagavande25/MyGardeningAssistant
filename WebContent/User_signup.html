@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Signup</title>
+    <link rel="stylesheet" href="style.css"> <!-- Keep styling consistent -->
+</head>
+<body>
+    <div class="container">
+        <h2>Create Account</h2>
+        <form action="UserSignupServlet" method="post">
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username" required><br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" name="password" required><br><br>
+
+            <input type="submit" value="Signup" class="btn">
+        </form>
+
+        <p>Already have an account? 
+           <a href="UserLogin.html">Login</a>
+        </p>
+    </div>
+</body>
+</html>

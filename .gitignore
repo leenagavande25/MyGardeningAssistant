@@ -1,1 +1,35 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build directories
 /build/
+target/
+out/
+
+# Tomcat or server files
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+*.war
+*.ear
+
+# IDE backups
+*.iml
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific
+*.class
+*.jar
+
+# Temporary uploads
+uploads/
+
